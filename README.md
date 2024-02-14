@@ -1,3 +1,3 @@
 # CounerUp-Plugin
 
-This is a counter up plugin made with js . 
+Counter up Plugin using raw JavaScript . Use anywere you want .
