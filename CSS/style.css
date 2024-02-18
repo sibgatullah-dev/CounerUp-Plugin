@@ -6,11 +6,11 @@
 body{
     
     text-align: center;
-    border: 7px solid rgb(63, 14, 241);
+    border: 7px solid rgb(58, 4, 255);
     
 }
 .content{
-    background-color: teal;
+    background-color: gray;
     display:flex ; 
     justify-content: center;
     align-items: center;
